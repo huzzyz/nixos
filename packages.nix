@@ -13,14 +13,19 @@
     kitty
     zsh
     kdeconnect
-    #libsForQt5.kdeconnect-kde
+    libsForQt5.kdeconnect-kde
+    discover
+    zsh-powerlevel10k
+    meslo-lgs-nf
+    oh-my-zsh
     kate
     flatpak
     libreoffice-fresh
     synology-drive-client
-    #zsh-powerlevel10k
-    #oh-my-zsh
+    zsh-powerlevel10k
+    oh-my-zsh
     vlc
+    firefox
     # ... and so on
   ];
 }
