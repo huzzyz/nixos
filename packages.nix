@@ -7,7 +7,6 @@
     git
     vim
     cifs-utils
-    microsoft-edge
     neofetch
     pfetch
     kitty
@@ -24,6 +23,9 @@
     synology-drive-client
     zsh-powerlevel10k
     oh-my-zsh
+    zsh-autocomplete
+    zsh-autosuggestions
+    zsh-syntax-highlighting
     vlc
     firefox
     # ... and so on
