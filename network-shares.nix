@@ -58,7 +58,7 @@ in
 
     # ... Add additional mounts if necessary
   };
-  # Networking Hosts
+    # Networking Hosts
   networking.hosts = {
     "192.168.53.53" = [ "Solitude" ];
   };
